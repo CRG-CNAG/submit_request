@@ -4,7 +4,7 @@ In case you are new user you can register at [https://crg.agendo.science](https:
 
 <img src="frontpage.png" width="800"/>
 
-You will be prompted to a registration form:
+You will be prompted to a registration form where you request to access to the services of one or more facilities.
 
 <img src="registration_form.png" width="800"/>
 
@@ -20,4 +20,6 @@ and here a new research centre:
 
 <img src="other_both.png" width="600"/>
 
+Then you can select the facility just clicking on the empty space and selecting one or more facilities.
 
+<img src="selection.png" width="600"/>
