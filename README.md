@@ -44,7 +44,7 @@ Then clicking on the search box of the corresponding facility will show the avai
 
 Finally you can fill the form with all the information needed for the request. You may want to indicate if your request is done on the behalf of another user (the box will be active when clickin on **Submit request on behalf of another user**).
 
-<img src="request.png" width="500"/>
+<img src="request.png" width="800"/>
 
 Clicking on **Submit** will send the information to the Unit that will evaluate your request and decide wether to accept or ask for more information. 
 
