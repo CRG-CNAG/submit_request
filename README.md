@@ -2,11 +2,11 @@
 
 In case you are new user you can register at [https://crg.agendo.science](https://crg.agendo.science/).
 
-<img src="frontpage.png" width="800"/>
+<img src="frontpage.png" width="600"/>
 
 You will be prompted to a registration form where you request to access to the services of one or more facilities.
 
-<img src="registration_form.png" width="600"/>
+<img src="registration_form.png" width="800"/>
 
 When choosing a istitution you can search your one within the list. Then you can choose the group. 
 
