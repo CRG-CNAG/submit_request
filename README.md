@@ -23,3 +23,30 @@ and here a new research centre:
 Then you can select the facility just clicking on the empty space and selecting one or more facilities.
 
 <img src="selection.png" width="600"/>
+
+Finally you have to select to agree with the Terms of Use and optionally to leave a comment for the manager.
+
+Once the procedure is finished the request will be evaluted by a manager that will eiter accept or refuse the request. 
+
+In case of acceptance you will receive a mail and you will be able to log in to the system with your credentials (e-mail and password).
+
+When you log in you can reach the facilites by cliking to the corresponding button.
+
+<img src="welcome.png" width="800"/>
+
+And then selecting the facility of interest:
+
+<img src="facilities.png" width="800"/>
+
+Then clicking on the search box of the corresponding facility will show the available services. You can then click on the one of interest for making the proper request.
+
+<img src="bioinfo.png" width="500"/>
+
+Finally you can fill the form with all the information needed for the request. You may want to indicate if your request is done on the behalf of another user (the box will be active when clickin on **Submit request on behalf of another user**).
+
+<img src="request.png" width="500"/>
+
+Clicking on **Submit** will send the information to the Unit that will evaluate your request and decide wether to accept or ask for more information. 
+
+
+
