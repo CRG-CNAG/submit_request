@@ -32,7 +32,7 @@ In case of acceptance you will receive a mail and you will be able to log in to 
 
 When you log in you can reach the facilites by cliking to the corresponding button.
 
-<img src="welcome.png" width="800"/>
+<img src="welcome2.png" width="800"/>
 
 And then selecting the facility of interest:
 
