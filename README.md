@@ -1,10 +1,8 @@
-# How to submit a request in Agendo.
-
 If you are a new Agendo user, register at [https://crg.agendo.science](https://crg.agendo.science/).
 
 <img src="frontpage.png" width="600"/>
 
-</br>
+<br/>
 
 You will be prompted to a registration form.
 First, fill in your credentials.
