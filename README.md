@@ -8,7 +8,7 @@ You will be prompted to a registration form.
 First, fill in your credentials.
 Then, select your istitute from the list and the group (laboratory). 
 
-<br/>
+<br/>hey
 
 <img src="registration_form.png" width="800"/>
 
