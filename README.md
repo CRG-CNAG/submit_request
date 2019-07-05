@@ -8,7 +8,7 @@ You will be prompted to a registration form.
 First, fill in your credentials.
 Then, select your istitute from the list and the group (laboratory). 
 
-<br/>hey
+<br/>
 
 <img src="registration_form.png" width="800"/>
 
@@ -41,15 +41,15 @@ Once your account is active, you can login to Agendo and access **"Facilities"**
 
 <img src="welcome2.png" width="800"/>
 
-</br>
+<br/>
 
 <img src="facilities.png" width="800"/>
 
-</br>
+<br/>
 To see the list of available services for a specific facility, for example, "Bioinformatics", click on the **"Search in facility"** white box on the right bottom of the facility image and select the service, for example, "Data Analysis". 
 <img src="bioinfo.png" width="500"/>
 
-</br>
+<br/>
 Fill the request form and click **"Submit"**. You can submit a request on behalf of another user.
 
 <img src="request.png" width="800"/>
