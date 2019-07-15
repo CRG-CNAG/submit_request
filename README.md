@@ -27,7 +27,7 @@ And the form to register a new group from the selected institute, for example, t
 
 <br/>
 
-Upon registration, you can request to access the services provided by one or more facilities, by clicking on the empty text box and selecting one or more facilities.
+Then, please request access to the facilities that you plan to use by clicking on the empty text box and selecting one or more facilities.
 
 <img src="selection.png" width="600"/>
 
@@ -48,6 +48,8 @@ Once your account is active, you can login to Agendo and access **"Facilities"**
 <br/>
 
 To see the list of available services for a specific facility, for example, "Bioinformatics", click on the **"Search in facility"** white box on the right bottom of the facility image and select the service, for example, "Data Analysis". 
+You can also access directly to either bookings or services by clicking the Calendars and the Requests from the menu.
+
 <img src="bioinfo.png" width="500"/>
 
 <br/>
