@@ -1,4 +1,4 @@
-If you are a new Agendo user, register at [https://crg.agendo.science](https://crg.agendo.science/).
+If you are a new Agendo user, register at [https://crg.agendoscience.com/](https://crg.agendoscience.com/).
 
 <img src="frontpage.png" width="600"/>
 
