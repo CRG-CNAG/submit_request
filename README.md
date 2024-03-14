@@ -6,13 +6,13 @@ If you are a new Agendo user, register at [https://crg.agendoscience.com/](https
 
 You will be prompted to a registration form.
 First, fill in your credentials.
-Then, select your istitute from the list and the group (laboratory). 
+Then, select your institute from the list and the group (laboratory). 
 
 <br/>
 
 <img src="registration_form.png" width="800"/>
 
-If your institute or group are not in the lists, select **Other**. 
+If your institute or group is not in the lists, select **Other**. 
 
 <br/>
 
@@ -31,13 +31,13 @@ Then, please request access to the facilities that you plan to use by clicking o
 
 <img src="selection.png" width="600"/>
 
-Please review the Terms of Use, agree with them and click **"Submit"**. You can also leave a comment for the manager.
+Please review the Terms of Use, agree with them, and click **"Submit"**. You can also leave a comment for the manager.
 
 <br/>
-You will recieve an e-mail from CRG about activation of your account.
+You will receive an e-mail from CRG about the activation of your account.
 <br/>
 
-Once your account is active, you can login to Agendo and access **"Facilities"**.
+Once your account is active, you can log in to Agendo and access **"Facilities"**.
 
 <img src="welcome2.png" width="800"/>
 
@@ -54,7 +54,7 @@ You can also access directly to either bookings or services by clicking the Cale
 
 <br/>
 
-Fill the request form and click **"Submit"**. You can submit a request on behalf of another user.
+Fill out the request form and click **"Submit"**. You can submit a request on behalf of another user.
 
 <img src="request.png" width="800"/>
 
